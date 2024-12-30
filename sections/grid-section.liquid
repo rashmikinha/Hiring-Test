@@ -1,3 +1,16 @@
+<section id="{{ section.id }}">
+  <div class="page-width">
+    <div class="grid-main-container">
+      {% for block in section.blocks %}
+        {{ 
+            block.settings.grid_image 
+            | image_url: width:800
+            | image_tag: class:'main-image',loading:'lazy'
+        }}
+      {% endfor %}
+    </div>
+  </div>
+</section>
 {% schema %}
   {
     "name": "Grid Section",
@@ -10,6 +23,11 @@
             "type": "image_picker",
             "id": "grid_image",
             "label": "Image"
+        },
+        {
+          "type": "product",
+          "id": "product",
+          "label": "Product"
         }
        ]
    }], 
