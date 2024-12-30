@@ -19,11 +19,63 @@
         "button_text": "Shop Now",
         "button_link": "shopify://collections/all",
         "bottom_text": "Sustainable Ethecally Made Sizes from XXS to 6XL",
-        "color_text": "#fff"
+        "color_text": "#ffffff"
       }
     },
     "grid_section_VAGNVL": {
       "type": "grid-section",
+      "blocks": {
+        "gridcol_caizwt": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        },
+        "gridcol_MUM9Jc": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        },
+        "gridcol_QHRXKN": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        },
+        "gridcol_RcNqDr": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        },
+        "gridcol_qEjXn4": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        },
+        "gridcol_KXkM6i": {
+          "type": "gridcol",
+          "settings": {
+            "grid_image": "shopify://shop_images/fff_3.png",
+            "product": "black-leather-bag"
+          }
+        }
+      },
+      "block_order": [
+        "gridcol_caizwt",
+        "gridcol_MUM9Jc",
+        "gridcol_QHRXKN",
+        "gridcol_RcNqDr",
+        "gridcol_qEjXn4",
+        "gridcol_KXkM6i"
+      ],
       "settings": {}
     }
   },
