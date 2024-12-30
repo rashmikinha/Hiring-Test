@@ -29,42 +29,54 @@
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 24,
+            "right_poisition": 16
           }
         },
         "gridcol_MUM9Jc": {
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 16,
+            "right_poisition": 16
           }
         },
         "gridcol_QHRXKN": {
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 16,
+            "right_poisition": 16
           }
         },
         "gridcol_RcNqDr": {
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 16,
+            "right_poisition": 16
           }
         },
         "gridcol_qEjXn4": {
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 16,
+            "right_poisition": 16
           }
         },
         "gridcol_KXkM6i": {
           "type": "gridcol",
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
-            "product": "black-leather-bag"
+            "product": "black-leather-bag",
+            "top_position": 16,
+            "right_poisition": 16
           }
         }
       },
