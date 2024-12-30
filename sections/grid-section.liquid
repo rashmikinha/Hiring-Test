@@ -27,6 +27,8 @@
                     | image_url: width:800
                     | image_tag: class:'main-image',loading:'lazy'
                 }}
+                {% assign product = block.settings.product %}
+                {% render 'popUp' , card_product:product %}
                 </div>
              {% endif %}
           {% endfor %}
