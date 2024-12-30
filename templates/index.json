@@ -12,6 +12,13 @@
     "rich_text_JUB3qV": {
       "type": "rich-text",
       "blocks": {
+        "heading_GeUare": {
+          "type": "heading",
+          "settings": {
+            "heading": "Figma is not working It get loading only. So I don't know the pixel everthing is according to image",
+            "heading_size": "h2"
+          }
+        },
         "text_CHhKE9": {
           "type": "text",
           "settings": {
@@ -20,6 +27,7 @@
         }
       },
       "block_order": [
+        "heading_GeUare",
         "text_CHhKE9"
       ],
       "settings": {
