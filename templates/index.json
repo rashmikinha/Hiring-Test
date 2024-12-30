@@ -30,8 +30,8 @@
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
             "product": "black-leather-bag",
-            "top_position": 24,
-            "right_poisition": 16
+            "top_position": 48,
+            "right_poisition": 47
           }
         },
         "gridcol_MUM9Jc": {
@@ -39,7 +39,7 @@
           "settings": {
             "grid_image": "shopify://shop_images/fff_3.png",
             "product": "black-leather-bag",
-            "top_position": 16,
+            "top_position": 52,
             "right_poisition": 16
           }
         },
@@ -49,7 +49,7 @@
             "grid_image": "shopify://shop_images/fff_3.png",
             "product": "black-leather-bag",
             "top_position": 16,
-            "right_poisition": 16
+            "right_poisition": 45
           }
         },
         "gridcol_RcNqDr": {
@@ -67,7 +67,7 @@
             "grid_image": "shopify://shop_images/fff_3.png",
             "product": "black-leather-bag",
             "top_position": 16,
-            "right_poisition": 16
+            "right_poisition": 49
           }
         },
         "gridcol_KXkM6i": {
