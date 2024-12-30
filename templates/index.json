@@ -9,6 +9,28 @@
  */
 {
   "sections": {
+    "rich_text_JUB3qV": {
+      "type": "rich-text",
+      "blocks": {
+        "text_CHhKE9": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Time Doctor Id and Password - <a href=\"tel:7042270752\" target=\"_blank\" title=\"tel:7042270752\">rashmikinha2001@gmail.com</a></p><p>Password - <a href=\"tel:7042270752\" target=\"_blank\" title=\"tel:7042270752\">7042270752R@s</a></p>"
+          }
+        }
+      },
+      "block_order": [
+        "text_CHhKE9"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    },
     "image_text_banner_7Prdjt": {
       "type": "image-text-banner",
       "settings": {
@@ -92,6 +114,7 @@
     }
   },
   "order": [
+    "rich_text_JUB3qV",
     "image_text_banner_7Prdjt",
     "grid_section_VAGNVL"
   ]
