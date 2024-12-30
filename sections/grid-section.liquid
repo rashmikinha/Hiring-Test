@@ -9,6 +9,11 @@
     width:100%;
     height:auto;
   }
+  @media screen and (max-width:800px){
+    .grid-main-container{
+      grid-template-columns: 1fr 1fr;
+    }
+  }
 </style>
 {% if section.blocks.size > 0 %}
     <section id="{{ section.id }}">
